@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907759172360",
+    "project_id": "fir-socialapp-d221b",
+    "storage_bucket": "fir-socialapp-d221b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907759172360:android:288fc31644fa8dfeec4abd",
+        "android_client_info": {
+          "package_name": "com.tejas.firebasesocialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907759172360-l34v08c7g5k60h1janpfdvab7b5j8diq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUNWGu1CnfeDhJUELhPk_UC98mCBFaqoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907759172360-l34v08c7g5k60h1janpfdvab7b5j8diq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
